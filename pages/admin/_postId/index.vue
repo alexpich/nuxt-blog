@@ -18,7 +18,7 @@ export default {
       loadedPost: {
         author: "Alex Pich",
         title: "First Post",
-        content: "This is my content of my first post. Boring right?",
+        content: "This is the content of my first post. Boring right?",
         thumbnailLink:
           "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png"
       }
