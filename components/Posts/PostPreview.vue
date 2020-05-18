@@ -1,5 +1,5 @@
 <template>
-  <nuxt-link :to="'/posts/' + 1" class="post-preview">
+  <nuxt-link :to="'/posts/' + id " class="post-preview">
     <article>
       <div
         class="post-thumbnail"
